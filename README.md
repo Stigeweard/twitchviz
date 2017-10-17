@@ -1,14 +1,14 @@
-# To install:
+### To install:
 ```
 npm install
 ```
 
-# To run webpack:
+### To run webpack:
 ```
 npm compile
 ```
 
-# To run locally
+### To run locally
 ```
 npm start
 ```
